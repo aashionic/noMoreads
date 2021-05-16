@@ -5,10 +5,10 @@ Adguard or uBlock Origin adrules of major Nepali News Portals and more
 # DESKTOP
 Download and installextension AdGuard AdBlocker following the link mentioned. Then,
 
-Go to Setting > Filters > Custom > Add Custom Filter
-Add the following URL : https://raw.githubusercontent.com/aashishtechie/nomoreads/main/noMoreads.txt
-Click Next and Check on Trusted and Subscribe Button.
-and done !
+1. Go to Setting > Filters > Custom > Add Custom Filter
+2. Add the following URL : https://raw.githubusercontent.com/aashishtechie/nomoreads/main/noMoreads.txt
+3. Click Next and Check on Trusted and Subscribe Button.
+4. and done !
 
 
 # MOBILE
@@ -16,9 +16,9 @@ Download AdGuard Mobile application or If free version shows any error then you 
 
 Then,
 
-Open the APP and Click on the Hamburger Menu
-Go to Settings > Content Blocking > Filters > Custom Filters < New Custom Filter
-Paste the following URL : https://raw.githubusercontent.com/aashishtechie/nomoreads/main/noMoreads.txt
-Click Import
-Check on Trusted and Click ADD
+1. Open the APP and Click on the Hamburger Menu
+2. Go to Settings > Content Blocking > Filters > Custom Filters < New Custom Filter
+3. Paste the following URL : https://raw.githubusercontent.com/aashishtechie/nomoreads/main/noMoreads.txt
+4. Click Import
+5. Check on Trusted and Click ADD
 Note: Don't forget to check whether the filter is turned on or off before leaving the app.
