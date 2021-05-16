@@ -1,0 +1,104 @@
+[noMoreads 1.0]
+! Version: 1.0
+! Title: noMoreads 
+! Last modified: 2021-05-16
+!By: AASHISH ADHIKARI
+
+
+! https://lokaantar.com
+||adalytics.prixacdn.net/media/albums/1140x100_Q9LjmqxIo0.gif$image
+lokaantar.com###body-content > .mb-4.mt-4
+lokaantar.com##.clearfix.bottomStickAd
+lokaantar.com###main > div > .mb-4.mt-4
+lokaantar.com##div.mb-4.mt-4.bigyapan-section:nth-of-type(1)
+lokaantar.com##.mb-5.mt-2
+||lktcdn.prixacdn.net/media/NEW_NIBL.gif$image
+
+
+! https://www.techpana.com
+www.techpana.com##div.container > div.row > .col-md-12
+www.techpana.com##div.container:nth-of-type(17)
+www.techpana.com##.mb-2.mt-2
+www.techpana.com##.col-md-4 > .mb-2 > section.widget
+www.techpana.com##.mb-3 > .mt-2 > section.widget
+
+
+! https://www.setopati.com
+www.setopati.com##.mast-head.col-md-12
+www.setopati.com##.header-bottom.container
+www.setopati.com##.container > .desktop-bigyaapan-only.section
+www.setopati.com##div.desktop-bigyaapan-only.first.bigyaapan-item.items:nth-of-type(1)
+www.setopati.com##.desktop-bigyaapan-only.bigyaapan-item.media
+www.setopati.com##div.desktop-bigyaapan-only.first.bigyaapan-item.items:nth-of-type(5)
+www.setopati.com##.col-md-9.col-sm-8.left-side > div.desktop-bigyaapan-only.section
+www.setopati.com##div.insert-ad:nth-of-type(1)
+www.setopati.com##.desktop-bigyaapan-only.ad-ite.medi
+www.setopati.com##.bottom-bigyaapan.row
+www.setopati.com##.mobile-fixed-ad
+www.setopati.com##.footer-fixed-bigyaapan.row
+www.setopati.com##.mobile-bigyaapan-only.ad-ite.medi
+www.setopati.com##div.mobile-bigyaapan-only.first.bigyaapan-item.items:nth-of-type(2)
+www.setopati.com##.mobile-bigyaapan-only.bigyaapan-item.media
+www.setopati.com##div.mobile-bigyaapan-only.first.bigyaapan-item.items:nth-of-type(6)
+www.setopati.com##.container > .mobile-bigyaapan-only.section > .container > .row > .col-md-12.full-bigyaapan
+www.setopati.com##.col-md-9.col-sm-8.left-side > div.mobile-bigyaapan-only.section > .container > .row > .col-md-12.full-bigyaapan
+www.setopati.com##.footer-menu.mask-box
+www.setopati.com##.col-md-4.social-media-feed.items > .mask-box
+www.setopati.com##.col-md-3.col-sm-4.right-side
+||img.setopaty.com/uploads/bigyaapan/70048400.gif$image
+
+
+!https://www.ratopati.com
+www.ratopati.com##body > .news-whitebgcolor-popup
+www.ratopati.com##div.wrapper > .row > .col-md-12
+www.ratopati.com##[src="https://ratopatis.prixacdn.net/media/1140x90_15.gif"]
+www.ratopati.com##div.wrapper > div > div.row > .col-md-3 > div
+www.ratopati.com##div.wrapper:nth-of-type(6)
+www.ratopati.com##.clearfix.bottomStickAd
+||ratopatis.prixacdn.net/media/Banner_1150-x-90.gif$image
+www.ratopati.com##.clearfix.topStickAd
+www.ratopati.com##.js_smartbanner.smartbanner--android.smartbanner
+||ratopatis.prixacdn.net/media/New_Forever_-_250x250.jpg$image
+www.ratopati.com##.fadeIn.animated.inline_disp__image1
+www.ratopati.com##div.col-md-4 > .inline_disp > .lazy-hidden.inline_disp__image1
+www.ratopati.com##.lazy-hidden.inline_disp__image1
+www.ratopati.com##.ot-material-card-content > div > div.row > .col-md-12
+www.ratopati.com##.col-md-3 > div.row
+www.ratopati.com##.disclosure-sec.col-md-12
+www.ratopati.com##.text-right.col-md-6
+www.ratopati.com##[href="https://okhatinepal.com/"]
+www.ratopati.com##.row > .adalyticsblock
+www.ratopati.com##.in.fade.modal-backdrop
+www.ratopati.com##div.wrapper > div > .wrapper
+ratopati.com##div.wrapper > div > .row
+ratopati.com##div.row:nth-of-type(2)
+ratopati.com##[href="http://www.prabhubank.com/"] > .fadeIn.animated.lazyunv
+ratopati.com##div.hidden-sm.hidden-xs:nth-of-type(3)
+ratopati.com##div.hidden-sm.hidden-xs:nth-of-type(4)
+ratopati.com##div.hidden-sm.hidden-xs:nth-of-type(5)
+ratopati.com##div.hidden-sm.hidden-xs:nth-of-type(6)
+ratopati.com##div.hidden-sm.hidden-xs:nth-of-type(7)
+ratopati.com##div.hidden-sm.hidden-xs:nth-of-type(8)
+ratopati.com##div.hidden-sm.hidden-xs:nth-of-type(9)
+ratopati.com##div.hidden-sm.hidden-xs:nth-of-type(10)
+ratopati.com##div.hidden-sm.hidden-xs:nth-of-type(11)
+ratopati.com##div.hidden-sm.hidden-xs:nth-of-type(12)
+ratopati.com##div.wrapper > div.row > .col-md-9 .hidden-xs.hidden-sm.row
+ratopati.com##div:nth-of-type(6)
+ratopati.com##div:nth-of-type(13)
+ratopati.com##div.wrapper:nth-of-type(9)
+ratopati.com##body > .news-whitebgcolor-popup
+ratopati.com##div.wrapper > .row > .col-md-12
+ratopati.com##.in.fade.modal-backdrop
+ratopati.com##.clearfix.bottomStickAd
+ratopati.com##.js_smartbanner.smartbanner--android.smartbanner
+ratopati.com##.visible-xs.visible-sm.clearfix.text-center
+ratopati.com##div.col-md-3:nth-of-type(12)
+ratopati.com##[href="https://www.worldremit.com/en/nepal"] > .fadeIn.animated.lazyunv
+ratopati.com##[href="http://www.shivamcement.com.np/"] > .fadeIn.animated.lazyunv
+ratopati.com##[href="https://www.shangrilabank.com/"] > .fadeIn.animated.lazyunv
+ratopati.com##[href="https://www.ratopati.com/"] > .fadeIn.animated.lazyunv
+ratopati.com##[href="https://www.himalayanbank.com/en/ancillary-products/hi-mb-mobile-banking"] > .fadeIn.animated.lazyunv
+ratopati.com##[href="http://www.nepalship.com/"] > .fadeIn.animated.lazyunv
+ratopati.com##[href="https://www.laxmibank.com/online-application"] > .fadeIn.animated.lazyunv
+ratopati.com##[href="http://onelink.to/w6znnf"] > .fadeIn.animated.lazyunv
