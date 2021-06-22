@@ -12,7 +12,7 @@ Then,
 
 
 ## MOBILE
-Download [AdGuard](https://download.adguard.com/d/18672/adguard.apk) Mobile application or If free version shows any error then you can try Moded Version of Adguard too. For that, search for Adguard Premium App and follow the links.
+Download [AdGuard](https://download.adguard.com/d/18672/adguard.apk) Mobile application.
 
 Then, 
 1. Open the APP and Click on the Hamburger Menu
