@@ -206,4 +206,6 @@ ekagaj.com##.pb-25.row
 ekagaj.com##.ad-block-small
 ekagaj.com##.main-article.article > div
 
+! https://www.onlinekhabar.com
+www.onlinekhabar.com###ok18-roadblock-wrap
 
