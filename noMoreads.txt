@@ -1,8 +1,8 @@
 ! Title: noMoreads
 ! Version: 1.1
 ! Title: noMoreads 
-! Last modified: 2021-07-21 17:07 UTC
-! Expires: 1 days
+! Last modified: 2021-07-29 11:51 UTC
+! Expires: 2 days
 ! By: AASHISH ADHIKARI
 
 
@@ -207,4 +207,13 @@ ekagaj.com##.ad-block-small
 
 ! https://www.onlinekhabar.com
 www.onlinekhabar.com###ok18-roadblock-wrap
+
+! https://ekantipur.com
+ekantipur.com##.top-smart-banner
+ekantipur.com##header > a.sponsor-mobile
+ekantipur.com##a.sponsor-mobile:nth-of-type(1)
+ekantipur.com##a.sponsor-mobile:nth-of-type(2)
+ekantipur.com##.text-wrap > .ekans-wrapper
+ekantipur.com##div.description > .ekans-wrapper > .ekans-row
+ekantipur.com##a.sponsor-mobile:nth-of-type(3)
 
