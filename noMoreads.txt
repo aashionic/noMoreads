@@ -1,6 +1,7 @@
 ! Title: noMoreads
 ! Version: 1.1
 ! Title: noMoreads 
+! Description: Nepali major sites adblocking rules
 ! Last modified: 2021-07-29 11:51 UTC
 ! Expires: 2 days
 ! By: AASHISH ADHIKARI
@@ -216,4 +217,7 @@ ekantipur.com##a.sponsor-mobile:nth-of-type(2)
 ekantipur.com##.text-wrap > .ekans-wrapper
 ekantipur.com##div.description > .ekans-wrapper > .ekans-row
 ekantipur.com##a.sponsor-mobile:nth-of-type(3)
+ekantipur.com##.sticky-ad
+ekantipur.com##.daraz-sponser
+
 
