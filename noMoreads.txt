@@ -7,54 +7,100 @@
 ! By: AASHISH ADHIKARI
 
 
-! https://lokaantar.com
-||adalytics.prixacdn.net/media/albums/1140x100_Q9LjmqxIo0.gif$image
-lokaantar.com###body-content > .mb-4.mt-4
-lokaantar.com##.clearfix.bottomStickAd
-lokaantar.com###main > div > .mb-4.mt-4
-lokaantar.com##div.mb-4.mt-4.bigyapan-section:nth-of-type(1)
-lokaantar.com##.mb-5.mt-2
-||lktcdn.prixacdn.net/media/NEW_NIBL.gif$image
+techpana.com##div.container:nth-child(9) > div.row.single > div.col-md-8:nth-child(2) > article.post-entry:first-child > div.tech-pana-mid:nth-child(6)
+techpana.com##div.container:nth-child(9) > div.row.single > div.col-md-4:last-child > a:last-child > img
+techpana.com##div.container:nth-child(19) > div.row.text-center > div.col-md-4.video-tala-ads:first-child
+techpana.com##div.container:nth-child(19) > div.row.text-center > div.col-md-4.video-tala-ads:last-child
+techpana.com##div.container:nth-child(19) > div.row.text-center
+techpana.com##div.container:nth-child(9) > div.row:nth-child(3) > div.col-md-12
+techpana.com##div.container:nth-child(9) > div.row.my-2:last-child > div.col-md-12:last-child
+techpana.com##div.container:nth-child(11) > div.row.my-1:first-child > div.col-md-12
+techpana.com##div.container:nth-child(11) > div.row.mt-2:last-child > div.col-md-12:first-child
+techpana.com##div.container.my-4:nth-child(13) > div.row:first-child
+techpana.com##div.container:nth-child(14) > div.row:first-child > div.col-md-12
+techpana.com##div.container:nth-child(9) > div.row.single > div.col-md-12.text-center.mt-2:first-child
+techpana.com##div.container:nth-child(9) > div.row.single > div.col-md-4:last-child > div.mb-2:first-child
+techpana.com##div.container:nth-child(9) > div.row.single > div.col-md-8:nth-child(2) > article.post-entry:first-child > div.mb-3:nth-child(2) > div.mt-2:last-child > section.widget:first-child
+techpana.com##div.container:nth-child(9) > div.row.single > div.col-md-8:nth-child(2) > article.post-entry:first-child > div.mb-3:nth-child(2) > div.mt-2:last-child > section.widget:last-child
+techpana.com##div.container:nth-child(9) > div.row.single > div.col-md-8:nth-child(2) > div.w-100:nth-child(2) > section.widget
+techpana.com##div.container:nth-child(9) > div.row.single > div.col-md-8:nth-child(2) > div.comment.my-5:nth-child(4) > div.fb-comments.fb_iframe_widget.fb_iframe_widget_fluid_desktop:last-child > span > iframe
+techpana.com##div.container:nth-child(9) > div.row.single > div.col-md-8:nth-child(2) > div.comment.my-5:nth-child(4) > div.cat-title.sm-title:nth-child(2)
+techpana.com##div.container:nth-child(9) > div.row.single > div.col-md-8:nth-child(2) > div.comment.my-5:nth-child(4) > div.fb-comments.fb_iframe_widget.fb_iframe_widget_fluid_desktop:last-child
 
+lokaantar.com##section.section.homepage-mobile-top-space.mb-5:nth-child(12) > div.container
+lokaantar.com##section.section.homepage-mobile-top-space:nth-child(19) > div.container
+lokaantar.com##section.section:nth-child(21) > div.container
+lokaantar.com##section.section.rajniti-section:nth-child(22) > div.container > div.row > div.col-lg-3.col-md-3:last-child > div
+lokaantar.com##section.section:nth-child(23) > div.container
+lokaantar.com##section.section:nth-child(25) > div.container
+lokaantar.com##section.section:nth-child(28) > div.container
+lokaantar.com##section.section.triple-grid-first-section:nth-child(29) > div.container > div.row > div.col-lg-3.col-md-3:last-child
+lokaantar.com##section.section:nth-child(30) > div.container
+lokaantar.com##section.section:nth-child(32) > div.container
+lokaantar.com##section.section:nth-child(39) > div.container
+lokaantar.com##section.section.triple-grid-second-section.sahitya-section:nth-child(38) > div.container > div.row > div.col-lg-3.col-md-3:last-child > div
+lokaantar.com##section.section.homepage-mobile-top-space:nth-child(12) > div.container
+lokaantar.com###sticky-sidebar > div.d-none.d-lg-block > div.lokantar-append > div > div.bigyapan-section.mt-4.mb-4:first-child
+lokaantar.com###main > div > div.mt-4.mb-4:first-child
+lokaantar.com###body-content > div.mt-4.mb-4:nth-child(2)
+lokaantar.com###sticky-sidebar > div.d-none.d-lg-block > div.lokantar-append > div > div.bigyapan-section.mt-4.mb-4:nth-child(3) > div.bigyapan-gif-gallery.mb-3 > a > img.img-fluid.full-img-width.lazyunv
+lokaantar.com###main > div > div.mt-2.mb-5:nth-child(6)
+lokaantar.com###main > div > div.stories-recent-posts:nth-child(7)
+lokaantar.com###sticky-sidebar > div.d-none.d-lg-block > div.lokantar-append > div > div.bigyapan-section.mt-4.mb-4:nth-child(5) > div.bigyapan-gif-gallery.mb-3 > a > img.img-fluid.full-img-width.lazyunv
+lokaantar.com###sticky-sidebar > div.d-none.d-lg-block > div.lokantar-append > div > div.bigyapan-section.mt-4.mb-4:last-child
+lokaantar.com##section.section.susasan-section.listing-section:nth-child(27) > div.container > div.row > div.col-lg-3.col-md-3:nth-child(2) > div
+lokaantar.com###body-content > div.mt-4.mb-4:nth-child(4)
+lokaantar.com###body-content > div.mt-4.mb-4:nth-child(7)
+lokaantar.com###stickyAdTop > div.mobile-advert > button.advert-close:first-child
+lokaantar.com###main > div > div.lokantar-clone.d-block.d-lg-none:nth-child(9) > div.lokantar-append > div > div.bigyapan-section.mt-4.mb-4:first-child
+lokaantar.com###main > div > div.lokantar-clone.d-block.d-lg-none:nth-child(9) > div.lokantar-append > div > div.bigyapan-section.mt-4.mb-4:nth-child(5) > div.bigyapan-gif-gallery.mb-3
+lokaantar.com###main > div > div.lokantar-clone.d-block.d-lg-none:nth-child(9) > div.lokantar-append > div > div.bigyapan-section.mt-4.mb-4:last-child
 
-! https://www.techpana.com
-www.techpana.com##div.container > div.row > .col-md-12
-www.techpana.com##div.container:nth-of-type(17)
-www.techpana.com##.mb-2.mt-2
-www.techpana.com##.col-md-4 > .mb-2 > section.widget
-www.techpana.com##.mb-3 > .mt-2 > section.widget
-
-
-! https://www.setopati.com
-www.setopati.com##.mast-head.col-md-12
-www.setopati.com##.header-bottom.container
-www.setopati.com##.container > .desktop-bigyaapan-only.section
-www.setopati.com##div.desktop-bigyaapan-only.first.bigyaapan-item.items:nth-of-type(1)
-www.setopati.com##.desktop-bigyaapan-only.bigyaapan-item.media
-www.setopati.com##div.desktop-bigyaapan-only.first.bigyaapan-item.items:nth-of-type(5)
-www.setopati.com##.col-md-9.col-sm-8.left-side > div.desktop-bigyaapan-only.section
-www.setopati.com##div.insert-ad:nth-of-type(1)
-www.setopati.com##.desktop-bigyaapan-only.ad-ite.medi
-www.setopati.com##.bottom-bigyaapan.row
-www.setopati.com##.mobile-fixed-ad
-www.setopati.com##.footer-fixed-bigyaapan.row
-www.setopati.com##.mobile-bigyaapan-only.ad-ite.medi
-www.setopati.com##div.mobile-bigyaapan-only.first.bigyaapan-item.items:nth-of-type(2)
-www.setopati.com##.mobile-bigyaapan-only.bigyaapan-item.media
-www.setopati.com##div.mobile-bigyaapan-only.first.bigyaapan-item.items:nth-of-type(6)
-www.setopati.com##.container > .mobile-bigyaapan-only.section > .container > .row > .col-md-12.full-bigyaapan
-www.setopati.com##.col-md-9.col-sm-8.left-side > div.mobile-bigyaapan-only.section > .container > .row > .col-md-12.full-bigyaapan
-www.setopati.com##.footer-menu.mask-box
-www.setopati.com##.col-md-4.social-media-feed.items > .mask-box
-www.setopati.com##.col-md-3.col-sm-4.right-side
-||img.setopaty.com/uploads/bigyaapan/70048400.gif$image
-www.setopati.com###desktop_sticky_3d_ad
-www.setopati.com###mobile_sticky_3d_ad
-www.setopati.com##div.insert-ad > .mobile-bigyaapan-only.items
-||img.setopaty.com/uploads/bigyaapan/08860200.gif$image
-www.setopati.com##.desktop-bigyaapan-only.a-item.meda
-www.setopati.com##.desktop-bigyaapan-only.a-item.medi > [href="https://heraldcollege.edu.np/"]
-
+setopati.com##div.container.header-bottom:nth-child(3)
+setopati.com###content > div.container > div.section.desktop-bigyaapan-only:nth-child(2) > div.container > div.row > div.full-bigyaapan.col-md-12
+setopati.com###content > div.container > div.section.desktop-bigyaapan-only:nth-child(5) > div.container > div.row > div.full-bigyaapan.col-md-12
+setopati.com###content > div.container > div.section.desktop-bigyaapan-only:nth-child(8) > div.container > div.row > div.full-bigyaapan.col-md-12
+setopati.com###content > div.container > div.section.desktop-bigyaapan-only:nth-child(11) > div.container > div.row > div.full-bigyaapan.col-md-12
+setopati.com###content > div.container > div.row:last-child > div.right-side.col-sm-4.col-md-3:last-child > div.right-column-bichar:first-child > div.items.bigyaapan-item.first.desktop-bigyaapan-only:first-child > a
+setopati.com###content > div.container > div.row:last-child > div.right-side.col-sm-4.col-md-3:last-child > div.right-column-bichar:first-child > div.items.bigyaapan-item.desktop-bigyaapan-only:nth-child(3) > a
+setopati.com###content > div.container > div.row:last-child > div.right-side.col-sm-4.col-md-3:last-child > div.right-column-bichar:first-child > div.items.bigyaapan-item.desktop-bigyaapan-only:nth-child(5) > a
+setopati.com###content > div.container > div.row:last-child > div.right-side.col-sm-4.col-md-3:last-child > div.right-column-bichar:first-child > div.items.bigyaapan-item.desktop-bigyaapan-only:nth-child(7) > a
+https://img.setopaty.com/uploads/bigyaapan/73978600.gif
+###content > div.container > div.row:last-child > div.right-side.col-sm-4.col-md-3:last-child > div.right-column-bichar:first-child > div.items.bichar.bichar-mobile.bichar-first:nth-child(10) > div.media.bigyaapan-item.desktop-bigyaapan-only:nth-child(7) > a
+###content > div.container > div.row:last-child > div.right-side.col-sm-4.col-md-3:last-child > div.right-column-bichar:first-child > div.items.bichar.bichar-mobile.bichar-first:nth-child(10) > div.media.bigyaapan-item.desktop-bigyaapan-only:nth-child(3) > a
+###content > div.container > div.row:last-child > div.right-side.col-sm-4.col-md-3:last-child > div.right-column-bichar:first-child > div.items.bichar.bichar-mobile.bichar-first:nth-child(10) > div.media.bigyaapan-item.desktop-bigyaapan-only:nth-child(5) > a
+###content > div.container > div.row:last-child > div.right-side.col-sm-4.col-md-3:last-child > div.right-column-bichar:first-child > div.items.bichar.bichar-mobile.bichar-first:nth-child(10) > div.media.bigyaapan-item.desktop-bigyaapan-only:nth-child(10) > a > img
+###content > div.container > div.row:last-child > div.right-side.col-sm-4.col-md-3:last-child > div.right-column-bichar:first-child > div.items.bichar.bichar-mobile.bichar-first:nth-child(10) > div.media.bigyaapan-item.desktop-bigyaapan-only:nth-child(12) > a > img
+setopati.com###content > div.container > div.row:last-child > div.right-side.col-sm-4.col-md-3:last-child > div.right-column-bichar:first-child > div.items.bichar.bichar-mobile.bichar-first:nth-child(11) > div.media.bigyaapan-item.desktop-bigyaapan-only:nth-child(3) > a
+###content > div.container > div.row:last-child > div.right-side.col-sm-4.col-md-3:last-child > div.right-column-bichar:first-child > div.items.bichar.bichar-mobile.bichar-first:nth-child(11) > div.media.bigyaapan-item.desktop-bigyaapan-only:nth-child(5) > a
+###content > div.container > div.row:last-child > div.right-side.col-sm-4.col-md-3:last-child > div.right-column-bichar:first-child > div.items.bichar.bichar-mobile.bichar-first:nth-child(11) > div.media.bigyaapan-item.desktop-bigyaapan-only:nth-child(7) > a > img
+setopati.com###content > div.container > div.row:last-child > div.right-side.col-sm-4.col-md-3:last-child > div.right-column-bichar:first-child > div.items.bichar.bichar-mobile.bichar-first:nth-child(11) > div.media.bigyaapan-item.desktop-bigyaapan-only:nth-child(10) > a
+setopati.com###content > div.container > div.row:last-child > div.right-side.col-sm-4.col-md-3:last-child > div.right-column-bichar:first-child > div.items.bichar.bichar-mobile.bichar-first:nth-child(11) > div.media.bigyaapan-item.desktop-bigyaapan-only:nth-child(12) > a
+setopati.com###content > div.container > div.row:last-child > div.right-side.col-sm-4.col-md-3:last-child > div.right-column-bichar:first-child > div.items.bichar.bichar-mobile.bichar-first:nth-child(11) > div.media.bigyaapan-item.desktop-bigyaapan-only:nth-child(14) > a
+setopati.com###content > div.container > div.row:last-child > div.right-side.col-sm-4.col-md-3:last-child > div.right-column-bichar:first-child > div.items.bichar.bichar-mobile.bichar-first:nth-child(11) > div.media.bigyaapan-item.desktop-bigyaapan-only:nth-child(17) > a
+setopati.com###content > div.container > div.row:last-child > div.right-side.col-sm-4.col-md-3:last-child > div.right-column-bichar:first-child > div.items.bichar.bichar-mobile.bichar-first:nth-child(11) > div.media.bigyaapan-item.desktop-bigyaapan-only:nth-child(19) > a
+setopati.com###content > div.container > div.row:last-child > div.right-side.col-sm-4.col-md-3:last-child > div.right-column-bichar:first-child > div.items.bichar.bichar-mobile.bichar-first:nth-child(11) > div.media.bigyaapan-item.desktop-bigyaapan-only:nth-child(21) > a
+setopati.com###content > div.container > div.row:last-child > aside.left-side.col-sm-8.col-md-9:first-child > div.section.desktop-bigyaapan-only:nth-child(5) > div.container > div.row > div.full-bigyaapan.col-md-12 > a > img
+setopati.com###content > div.container > div.row:last-child > aside.left-side.col-sm-8.col-md-9:first-child > div.row:first-child > div.detail-box.col-md-12 > div.editor-box:first-child > div.insert-ad:first-child
+setopati.com###content > div.container > div.row:last-child > aside.left-side.col-sm-8.col-md-9:first-child > div.row:first-child > div.detail-box.col-md-12 > div.editor-box:first-child > div.meda.a-item.desktop-bigyaapan-only:nth-child(3) > a > img.pull-img-left
+setopati.com###content > div.container > div.row:last-child > aside.left-side.col-sm-8.col-md-9:first-child > div.row:first-child > div.detail-box.col-md-12 > div.editor-box:first-child > div.insert-ad:nth-child(7)
+setopati.com###content > div.container > div.row:last-child > aside.left-side.col-sm-8.col-md-9:first-child > div.row.bottom-bigyaapan:nth-child(2)
+setopati.com###content > div.container > div.row:last-child > aside.left-side.col-sm-8.col-md-9:first-child > div.comment-box.col-md-12:nth-child(3)
+setopati.com###content > div.container > div.row:last-child > div.right-side.innerpages.col-sm-4.col-md-3:last-child
+https://img.setopaty.com/uploads/bigyaapan/49955700.gif
+##.items, .desktop-bigyaapan-only
+setopati.com###header > div.container.main-menu:last-child > div.row.header-main.fixed-tops.slideInDown.animated > div.col-md-12.navigation-box:first-child > span.mobile-fixed-ad:first-child
+setopati.com###content > div.container > div.row:last-child > aside.left-side.col-sm-8.col-md-9:first-child > div.row:first-child > div.detail-box.col-md-12 > div.editor-box:first-child > div.medi.ad-ite.mobile-bigyaapan-only:nth-child(4)
+setopati.com###content > div.container > div.row:last-child > aside.left-side.col-sm-8.col-md-9:first-child > div.row:first-child > div.detail-box.col-md-12 > div.editor-box:first-child > div.medi.ad-ite.mobile-bigyaapan-only:nth-child(4)
+setopati.com###content > div.container > div.section.mobile-bigyaapan-only:nth-child(3) > div.container > div.row > div.full-bigyaapan.col-md-12
+setopati.com###content > div.container > div.section.mobile-bigyaapan-only:nth-child(6) > div.container > div.row > div.full-bigyaapan.col-md-12
+setopati.com###content > div.container > div.section.mobile-bigyaapan-only:nth-child(9) > div.container > div.row > div.full-bigyaapan.col-md-12
+setopati.com###content > div.container > div.section.mobile-bigyaapan-only:nth-child(12) > div.container > div.row > div.full-bigyaapan.col-md-12
+setopati.com###content > div.container > div.row:last-child > aside.left-side.col-sm-8.col-md-9:first-child > div.section.mobile-bigyaapan-only:nth-child(6) > div.container > div.row > div.full-bigyaapan.col-md-12
+setopati.com###content > div.container > div.row:last-child > aside.left-side.col-sm-8.col-md-9:first-child > section.section.common-section.kala-section:nth-child(12) > div.bishesh.kala > div.row.boundary:nth-child(3) > div.bishesh-right.col-md-8:first-child > div.mask-box
+setopati.com###content > div.container > div.row:last-child > aside.left-side.col-sm-8.col-md-9:first-child > section.section.common-section.samachar-section:nth-child(10) > div.bishesh.special-event-wc > div.row.boundary:nth-child(3) > div.bishesh-right.col-md-8:first-child > div.mask-box
+setopati.com###content > div.container > div.row:last-child > aside.left-side.col-sm-8.col-md-9:first-child > div.row:first-child > div.detail-box.col-md-12 > div.editor-box:first-child > div.meda.a-item.mobile-bigyaapan-only:nth-child(4)
+setopati.com###content > div.container > div.row:last-child > aside.left-side.col-sm-8.col-md-9:first-child > div.row:first-child > div.detail-box.col-md-12 > div.editor-box:first-child > div.meda.a-item.mobile-bigyaapan-only:nth-child(4) > a > img
 
 !https://www.ratopati.com
 www.ratopati.com##body > .news-whitebgcolor-popup
