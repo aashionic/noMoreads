@@ -18,6 +18,15 @@ techpana.com##div.container:nth-child(11) > div.row.my-1:first-child > div.col-m
 techpana.com##div.container:nth-child(11) > div.row.mt-2:last-child > div.col-md-12:first-child
 techpana.com##div.container.my-4:nth-child(13) > div.row:first-child
 techpana.com##div.container:nth-child(14) > div.row:first-child > div.col-md-12
+www.techpana.com##.mt-2.text-center.col-md-12
+www.techpana.com##.mb-2
+www.techpana.com##.mb-3 > .mt-2
+www.techpana.com##[src^="https://creative.hamropatro.com/img/hamro_banner_350x150.gif"]
+www.techpana.com##.tech-pana-mid
+www.techpana.com##.col-md-8 > .w-100
+www.techpana.com##.show.modal-load.fade.modal
+www.techpana.com##.show.fade.modal-backdrop
+www.techpana.com##.col-md-12 > section.widget
 techpana.com##div.container:nth-child(9) > div.row.single > div.col-md-12.text-center.mt-2:first-child
 techpana.com##div.container:nth-child(9) > div.row.single > div.col-md-4:last-child > div.mb-2:first-child
 techpana.com##div.container:nth-child(9) > div.row.single > div.col-md-8:nth-child(2) > article.post-entry:first-child > div.mb-3:nth-child(2) > div.mt-2:last-child > section.widget:first-child
@@ -56,51 +65,34 @@ lokaantar.com###main > div > div.lokantar-clone.d-block.d-lg-none:nth-child(9) >
 lokaantar.com###main > div > div.lokantar-clone.d-block.d-lg-none:nth-child(9) > div.lokantar-append > div > div.bigyapan-section.mt-4.mb-4:nth-child(5) > div.bigyapan-gif-gallery.mb-3
 lokaantar.com###main > div > div.lokantar-clone.d-block.d-lg-none:nth-child(9) > div.lokantar-append > div > div.bigyapan-section.mt-4.mb-4:last-child
 
-setopati.com##div.container.header-bottom:nth-child(3)
-setopati.com###content > div.container > div.section.desktop-bigyaapan-only:nth-child(2) > div.container > div.row > div.full-bigyaapan.col-md-12
-setopati.com###content > div.container > div.section.desktop-bigyaapan-only:nth-child(5) > div.container > div.row > div.full-bigyaapan.col-md-12
-setopati.com###content > div.container > div.section.desktop-bigyaapan-only:nth-child(8) > div.container > div.row > div.full-bigyaapan.col-md-12
-setopati.com###content > div.container > div.section.desktop-bigyaapan-only:nth-child(11) > div.container > div.row > div.full-bigyaapan.col-md-12
-setopati.com###content > div.container > div.row:last-child > div.right-side.col-sm-4.col-md-3:last-child > div.right-column-bichar:first-child > div.items.bigyaapan-item.first.desktop-bigyaapan-only:first-child > a
-setopati.com###content > div.container > div.row:last-child > div.right-side.col-sm-4.col-md-3:last-child > div.right-column-bichar:first-child > div.items.bigyaapan-item.desktop-bigyaapan-only:nth-child(3) > a
-setopati.com###content > div.container > div.row:last-child > div.right-side.col-sm-4.col-md-3:last-child > div.right-column-bichar:first-child > div.items.bigyaapan-item.desktop-bigyaapan-only:nth-child(5) > a
-setopati.com###content > div.container > div.row:last-child > div.right-side.col-sm-4.col-md-3:last-child > div.right-column-bichar:first-child > div.items.bigyaapan-item.desktop-bigyaapan-only:nth-child(7) > a
-https://img.setopaty.com/uploads/bigyaapan/73978600.gif
-###content > div.container > div.row:last-child > div.right-side.col-sm-4.col-md-3:last-child > div.right-column-bichar:first-child > div.items.bichar.bichar-mobile.bichar-first:nth-child(10) > div.media.bigyaapan-item.desktop-bigyaapan-only:nth-child(7) > a
-###content > div.container > div.row:last-child > div.right-side.col-sm-4.col-md-3:last-child > div.right-column-bichar:first-child > div.items.bichar.bichar-mobile.bichar-first:nth-child(10) > div.media.bigyaapan-item.desktop-bigyaapan-only:nth-child(3) > a
-###content > div.container > div.row:last-child > div.right-side.col-sm-4.col-md-3:last-child > div.right-column-bichar:first-child > div.items.bichar.bichar-mobile.bichar-first:nth-child(10) > div.media.bigyaapan-item.desktop-bigyaapan-only:nth-child(5) > a
-###content > div.container > div.row:last-child > div.right-side.col-sm-4.col-md-3:last-child > div.right-column-bichar:first-child > div.items.bichar.bichar-mobile.bichar-first:nth-child(10) > div.media.bigyaapan-item.desktop-bigyaapan-only:nth-child(10) > a > img
-###content > div.container > div.row:last-child > div.right-side.col-sm-4.col-md-3:last-child > div.right-column-bichar:first-child > div.items.bichar.bichar-mobile.bichar-first:nth-child(10) > div.media.bigyaapan-item.desktop-bigyaapan-only:nth-child(12) > a > img
-setopati.com###content > div.container > div.row:last-child > div.right-side.col-sm-4.col-md-3:last-child > div.right-column-bichar:first-child > div.items.bichar.bichar-mobile.bichar-first:nth-child(11) > div.media.bigyaapan-item.desktop-bigyaapan-only:nth-child(3) > a
-###content > div.container > div.row:last-child > div.right-side.col-sm-4.col-md-3:last-child > div.right-column-bichar:first-child > div.items.bichar.bichar-mobile.bichar-first:nth-child(11) > div.media.bigyaapan-item.desktop-bigyaapan-only:nth-child(5) > a
-###content > div.container > div.row:last-child > div.right-side.col-sm-4.col-md-3:last-child > div.right-column-bichar:first-child > div.items.bichar.bichar-mobile.bichar-first:nth-child(11) > div.media.bigyaapan-item.desktop-bigyaapan-only:nth-child(7) > a > img
-setopati.com###content > div.container > div.row:last-child > div.right-side.col-sm-4.col-md-3:last-child > div.right-column-bichar:first-child > div.items.bichar.bichar-mobile.bichar-first:nth-child(11) > div.media.bigyaapan-item.desktop-bigyaapan-only:nth-child(10) > a
-setopati.com###content > div.container > div.row:last-child > div.right-side.col-sm-4.col-md-3:last-child > div.right-column-bichar:first-child > div.items.bichar.bichar-mobile.bichar-first:nth-child(11) > div.media.bigyaapan-item.desktop-bigyaapan-only:nth-child(12) > a
-setopati.com###content > div.container > div.row:last-child > div.right-side.col-sm-4.col-md-3:last-child > div.right-column-bichar:first-child > div.items.bichar.bichar-mobile.bichar-first:nth-child(11) > div.media.bigyaapan-item.desktop-bigyaapan-only:nth-child(14) > a
-setopati.com###content > div.container > div.row:last-child > div.right-side.col-sm-4.col-md-3:last-child > div.right-column-bichar:first-child > div.items.bichar.bichar-mobile.bichar-first:nth-child(11) > div.media.bigyaapan-item.desktop-bigyaapan-only:nth-child(17) > a
-setopati.com###content > div.container > div.row:last-child > div.right-side.col-sm-4.col-md-3:last-child > div.right-column-bichar:first-child > div.items.bichar.bichar-mobile.bichar-first:nth-child(11) > div.media.bigyaapan-item.desktop-bigyaapan-only:nth-child(19) > a
-setopati.com###content > div.container > div.row:last-child > div.right-side.col-sm-4.col-md-3:last-child > div.right-column-bichar:first-child > div.items.bichar.bichar-mobile.bichar-first:nth-child(11) > div.media.bigyaapan-item.desktop-bigyaapan-only:nth-child(21) > a
-setopati.com###content > div.container > div.row:last-child > aside.left-side.col-sm-8.col-md-9:first-child > div.section.desktop-bigyaapan-only:nth-child(5) > div.container > div.row > div.full-bigyaapan.col-md-12 > a > img
-setopati.com###content > div.container > div.row:last-child > aside.left-side.col-sm-8.col-md-9:first-child > div.row:first-child > div.detail-box.col-md-12 > div.editor-box:first-child > div.insert-ad:first-child
-setopati.com###content > div.container > div.row:last-child > aside.left-side.col-sm-8.col-md-9:first-child > div.row:first-child > div.detail-box.col-md-12 > div.editor-box:first-child > div.meda.a-item.desktop-bigyaapan-only:nth-child(3) > a > img.pull-img-left
-setopati.com###content > div.container > div.row:last-child > aside.left-side.col-sm-8.col-md-9:first-child > div.row:first-child > div.detail-box.col-md-12 > div.editor-box:first-child > div.insert-ad:nth-child(7)
-setopati.com###content > div.container > div.row:last-child > aside.left-side.col-sm-8.col-md-9:first-child > div.row.bottom-bigyaapan:nth-child(2)
-setopati.com###content > div.container > div.row:last-child > aside.left-side.col-sm-8.col-md-9:first-child > div.comment-box.col-md-12:nth-child(3)
-setopati.com###content > div.container > div.row:last-child > div.right-side.innerpages.col-sm-4.col-md-3:last-child
-https://img.setopaty.com/uploads/bigyaapan/49955700.gif
-##.items, .desktop-bigyaapan-only
-setopati.com###header > div.container.main-menu:last-child > div.row.header-main.fixed-tops.slideInDown.animated > div.col-md-12.navigation-box:first-child > span.mobile-fixed-ad:first-child
-setopati.com###content > div.container > div.row:last-child > aside.left-side.col-sm-8.col-md-9:first-child > div.row:first-child > div.detail-box.col-md-12 > div.editor-box:first-child > div.medi.ad-ite.mobile-bigyaapan-only:nth-child(4)
-setopati.com###content > div.container > div.row:last-child > aside.left-side.col-sm-8.col-md-9:first-child > div.row:first-child > div.detail-box.col-md-12 > div.editor-box:first-child > div.medi.ad-ite.mobile-bigyaapan-only:nth-child(4)
-setopati.com###content > div.container > div.section.mobile-bigyaapan-only:nth-child(3) > div.container > div.row > div.full-bigyaapan.col-md-12
-setopati.com###content > div.container > div.section.mobile-bigyaapan-only:nth-child(6) > div.container > div.row > div.full-bigyaapan.col-md-12
-setopati.com###content > div.container > div.section.mobile-bigyaapan-only:nth-child(9) > div.container > div.row > div.full-bigyaapan.col-md-12
-setopati.com###content > div.container > div.section.mobile-bigyaapan-only:nth-child(12) > div.container > div.row > div.full-bigyaapan.col-md-12
-setopati.com###content > div.container > div.row:last-child > aside.left-side.col-sm-8.col-md-9:first-child > div.section.mobile-bigyaapan-only:nth-child(6) > div.container > div.row > div.full-bigyaapan.col-md-12
-setopati.com###content > div.container > div.row:last-child > aside.left-side.col-sm-8.col-md-9:first-child > section.section.common-section.kala-section:nth-child(12) > div.bishesh.kala > div.row.boundary:nth-child(3) > div.bishesh-right.col-md-8:first-child > div.mask-box
-setopati.com###content > div.container > div.row:last-child > aside.left-side.col-sm-8.col-md-9:first-child > section.section.common-section.samachar-section:nth-child(10) > div.bishesh.special-event-wc > div.row.boundary:nth-child(3) > div.bishesh-right.col-md-8:first-child > div.mask-box
-setopati.com###content > div.container > div.row:last-child > aside.left-side.col-sm-8.col-md-9:first-child > div.row:first-child > div.detail-box.col-md-12 > div.editor-box:first-child > div.meda.a-item.mobile-bigyaapan-only:nth-child(4)
-setopati.com###content > div.container > div.row:last-child > aside.left-side.col-sm-8.col-md-9:first-child > div.row:first-child > div.detail-box.col-md-12 > div.editor-box:first-child > div.meda.a-item.mobile-bigyaapan-only:nth-child(4) > a > img
+! 2021-10-31 https://www.setopati.com
+www.setopati.com##.header-bottom.container
+www.setopati.com##div.desktop-bigyaapan-only.section:nth-of-type(1)
+www.setopati.com##div.desktop-bigyaapan-only.section:nth-of-type(3)
+www.setopati.com##div.desktop-bigyaapan-only.section:nth-of-type(5)
+www.setopati.com##div.desktop-bigyaapan-only.section:nth-of-type(7)
+www.setopati.com##.desktop-bigyaapan-only.first.bigyaapan-item.items
+www.setopati.com##div.desktop-bigyaapan-only.bigyaapan-item.items:nth-of-type(3)
+www.setopati.com##div.desktop-bigyaapan-only.bigyaapan-item.items:nth-of-type(5)
+www.setopati.com##div.desktop-bigyaapan-only.bigyaapan-item.items:nth-of-type(7)
+www.setopati.com##.desktop-bigyaapan-only.bigyaapan-item.media
+www.setopati.com##div.insert-ad:nth-of-type(1)
+www.setopati.com##.desktop-bigyaapan-only.ad-ite.medi
+www.setopati.com##div.insert-ad:nth-of-type(4)
+www.setopati.com##.bottom-bigyaapan.row
+www.setopati.com##div.mobile-bigyaapan-only.section:nth-of-type(2)
+www.setopati.com##.footer-fixed-bigyaapan.row
+www.setopati.com##.mobile-fixed-ad
+www.setopati.com##div.mobile-bigyaapan-only.section:nth-of-type(4)
+www.setopati.com##div.mobile-bigyaapan-only.section:nth-of-type(6)
+www.setopati.com##div.mobile-bigyaapan-only.section:nth-of-type(8)
+www.setopati.com##.mobile-bigyaapan-only.first.bigyaapan-item.items
+www.setopati.com##div.mobile-bigyaapan-only.bigyaapan-item.items:nth-of-type(4)
+www.setopati.com##div.mobile-bigyaapan-only.bigyaapan-item.items:nth-of-type(6)
+www.setopati.com##div.mobile-bigyaapan-only.bigyaapan-item.items:nth-of-type(8)
+www.setopati.com##.mobile-bigyaapan-only.bigyaapan-item.media
+www.setopati.com##.mobile-bigyaapan-only.ad-ite.medi
+
 
 !https://www.ratopati.com
 www.ratopati.com##body > .news-whitebgcolor-popup
