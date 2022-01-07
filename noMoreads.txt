@@ -3,7 +3,6 @@
 ! Title: noMoreads 
 ! Description: Nepali major sites adblocking rules
 ! Last modified: 2021-07-29 11:51 UTC
-! Expires: 2 days
 ! By: AASHISH ADHIKARI
 
 
