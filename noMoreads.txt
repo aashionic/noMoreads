@@ -258,3 +258,20 @@ ekantipur.com##.sticky-ad
 ekantipur.com##.daraz-sponser
 
 
+! 2022-02-21 https://www.nepalpress.com
+www.nepalpress.com##.news-detail > .section-np-space
+www.nepalpress.com##.social-links
+www.nepalpress.com###gam-npad-106
+www.nepalpress.com##.is-column-9 > section.section-np-space > .uk-container
+www.nepalpress.com###gam-npad-124
+www.nepalpress.com###gam-npad-67
+www.nepalpress.com##.uk-text-justify.news-content-area > .single-inbetweenstories-2.gam-npad-position-wrap
+www.nepalpress.com##.single-desktop-right.gam-npad-position-wrap
+www.nepalpress.com##.section-ad-space > .uk-container
+www.nepalpress.com##section.section-np-space > .uk-container
+www.nepalpress.com##.political-block.section-top > .uk-container > .uk-grid-medium.uk-grid > .uk-width-medium\@m > .sticky
+www.nepalpress.com##.political-block.section-top > .uk-container > .uk-grid-medium.uk-grid > .uk-width-medium\@m
+www.nepalpress.com##.uk-text-center.bannerSticky
+
+
+
