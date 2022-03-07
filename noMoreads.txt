@@ -91,6 +91,14 @@ www.setopati.com##div.mobile-bigyaapan-only.bigyaapan-item.items:nth-of-type(6)
 www.setopati.com##div.mobile-bigyaapan-only.bigyaapan-item.items:nth-of-type(8)
 www.setopati.com##.mobile-bigyaapan-only.bigyaapan-item.media
 www.setopati.com##.mobile-bigyaapan-only.ad-ite.medi
+www.setopati.com##.desktop-jacket-bigyaapan.modalbox
+www.setopati.com##.header-bottom.container
+www.setopati.com##.desktop-featured-bigyaapan.bigyaapan-item.media
+www.setopati.com##div.insert-ad:nth-of-type(1)
+www.setopati.com##.desktop-bigyaapan-only.first.bigyaapan-item.items > [href="https://www.agnimahindra.com/"]
+www.setopati.com##.desktop-bigyaapan-only.ad-ite.medi
+www.setopati.com##div.desktop-bigyaapan-only.bigyaapan-item.items:nth-of-type(3)
+www.setopati.com##div.desktop-bigyaapan-only.bigyaapan-item.items > [href="https://globalimebank.com/global-sambriddha-awakas-recurring-deposit.html"]
 
 
 !https://www.ratopati.com
@@ -272,6 +280,28 @@ www.nepalpress.com##section.section-np-space > .uk-container
 www.nepalpress.com##.political-block.section-top > .uk-container > .uk-grid-medium.uk-grid > .uk-width-medium\@m > .sticky
 www.nepalpress.com##.political-block.section-top > .uk-container > .uk-grid-medium.uk-grid > .uk-width-medium\@m
 www.nepalpress.com##.uk-text-center.bannerSticky
+
+
+
+
+! 2022-02-20 https://www.interviewbit.com
+www.interviewbit.com###ribbon-container
+
+! 2022-03-06 https://shilapatra.com
+shilapatra.com##.imagebox
+||img.shilapatra.de/uploads/bigyaapan/91449600.gif$image
+shilapatra.com##.top-masthead.section > .container > .split-box.bigyaapan-box.row > div.col-md-6.col-sm-6.half-bigyaapan
+shilapatra.com##.regular-bigyaapan.section
+shilapatra.com##.content-editor.section > section.more-bigyaapan.full-bigyapan.section
+shilapatra.com##div.more-bigyaapan.full-bigyapan.section:nth-of-type(1)
+shilapatra.com##div.more-bigyaapan.full-bigyapan.section:nth-of-type(2)
+shilapatra.com##section.more-bigyaapan.full-bigyapan.section:nth-of-type(2)
+shilapatra.com##section.more-bigyaapan.full-bigyapan.section:nth-of-type(1)
+shilapatra.com##section.more-bigyaapan.full-bigyapan.section:nth-of-type(3)
+shilapatra.com##section.more-bigyaapan.full-bigyapan.section:nth-of-type(6)
+shilapatra.com##section.more-bigyaapan.full-bigyapan.section:nth-of-type(5)
+
+
 
 
 
