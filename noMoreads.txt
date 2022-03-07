@@ -2,7 +2,7 @@
 ! Version: 1.1
 ! Title: noMoreads 
 ! Description: Nepali major sites adblocking rules
-! Last modified: 2021-07-29 11:51 UTC
+! Last modified: 2022-03-07 11:51 UTC
 ! By: AASHISH ADHIKARI
 
 
