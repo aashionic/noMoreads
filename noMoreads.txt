@@ -102,6 +102,12 @@ www.setopati.com##div.desktop-bigyaapan-only.bigyaapan-item.items > [href="https
 www.setopati.com###desktop_sticky_3d_ad > .cube-bigyaapan
 www.setopati.com##div.insert-ad:nth-of-type(3)
 www.setopati.com##div.insert-ad > .desktop-bigyaapan-only.items
+www.setopati.com###mobile_sticky_3d_ad > .cube-bigyaapan
+www.setopati.com###mobile_featured_3d_ad > .cube-box
+www.setopati.com##.mobile-featured-bigyaapan.bigyaapan-item.media
+www.setopati.com##.mobile-bigyaapan-only.a-item.meda
+www.setopati.com##div.insert-ad:nth-of-type(6)
+
 
 
 
